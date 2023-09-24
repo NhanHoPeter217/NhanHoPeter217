@@ -13,8 +13,3 @@ _I wanna experience as much as possible. I love coding and making unique things.
 [![](https://visitcount.itsvg.in/api?id=NhanHoPeter217&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<style>
-.markdown-content br {
-    height: 10px; /* Adjust the height value as needed */
-}
-</style>
