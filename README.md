@@ -15,6 +15,6 @@ _I wanna experience as much as possible. I love coding and making unique things.
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <style>
 .markdown-content br {
-    height: 20px; /* Adjust the height value as needed */
+    height: 10px; /* Adjust the height value as needed */
 }
 </style>
