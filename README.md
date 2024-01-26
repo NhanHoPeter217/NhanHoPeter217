@@ -5,8 +5,7 @@ _I wanna experience as much as possible. I love coding and making unique things.
 ## 🌐 Socials
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/honhanpeter17) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/NhanHo.2305/) 
 ## 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NhanHoPeter217&show_icons=true&theme=transparent)
-![](https://github-readme-streak-stats.herokuapp.com/?user=NhanHoPeter217&theme=blueberry&hide_border=true)<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NhanHoPeter217&show_icons=true&theme=transparent)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NhanHoPeter217)
 
 ---
