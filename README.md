@@ -1,5 +1,5 @@
 ## 💫 About Me
-_I wanna experience as much as possible. I love coding and making unique things._
+_I have a great passion for software engineering. I want to create unique products that benefit users._
 
 
 ## 🌐 Socials
